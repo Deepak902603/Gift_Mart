@@ -1,0 +1,382 @@
+
+{
+    "Products":[
+        {
+            "id":1,
+            "Name":"Wireless Audio System Multiroom 360 degree full base audio",
+            "Category":"Speakers",
+            "oldPrice":800.00,
+            "Price":680.00,
+            "ProductsImage":"/radio.jpeg",
+            "InStock": true,
+            "quantity":10
+        },
+        {
+            "id":2,
+            "Name":"ASUS [Smartchoice] ROG Strix G16",
+            "Category":"Laptops",
+            "oldPrice":120000,
+            "Price":113990,
+            "ProductsImage":"/Laptop.jpeg",
+            "InStock": true,
+            "quantity":8
+        },
+
+        
+        {
+            "id":3,
+            "Name":"Konka 40 Smart LED TV (2024) with Google TV OS",
+            "oldPrice":30000,
+            "Category":"Televisions",
+            "Price":24000,
+            "ProductsImage":"/tv.avif",
+            "InStock": true,
+            "quantity":15
+        },
+
+         {
+            "id":4,
+            "Name":"NEX Suncool 2X Ai Split AC(Wi-fi) – Nexus Solar Energy",
+            "Category":"Acs",
+            "oldPrice":75000,
+            "Price":68000,
+            "ProductsImage":"/ac.jpg",
+            "InStock": true,
+            "quantity":12
+        },
+        {
+            "id":5,
+            "Name":"Crompton Ginie Neo Personal Air Cooler",
+            "Category":"Coolers",
+            "oldPrice":45000,
+            "Price":39900,
+            "ProductsImage":"/cooler.jpg",
+            "InStock": true,
+            "quantity":16
+        },
+
+        
+        {
+            "id":7,
+            "Name":"Sony DualSense Wireless Controller PS5 ",
+            "Category":"Fans",
+            "oldPrice":820,
+            "Price":700,
+            "ProductsImage":"../../../public/product-07.png",
+            "InStock": true,
+            "quantity":9
+        },
+         {
+            "id":8,
+            "Name":"Galaxy History ①] Evolution of the Galaxy Z ",
+            "Category":"Phones",
+            "oldPrice":135000,
+            "Price":123000,
+            "ProductsImage":"/Samsung.jpg",
+            "InStock": true,
+            "quantity":21
+        },
+        {
+            "id":9,
+            "Name":"Room Heater 2000W with Adjustable Thermosta",
+            "Category":"Room Heaters",
+            "oldPrice":2600,
+            "Price":2400,
+            "ProductsImage":"/heater.jpeg",
+            "InStock": true,
+            "quantity":24
+        },
+
+        
+        {
+            "id":10,
+            "Name":"Samsung 32L Convection Microwave Oven",
+            "Category":"Microwaves",
+            "oldPrice":49900,
+            "Price":44800,
+            "ProductsImage":"/Microwave.jpeg",
+            "InStock": true,
+            "quantity":17
+        },
+
+         {
+            "id":11,
+            "Name":"Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+            "Category":"Headphones",
+            "oldPrice":5500,
+            "Price":4800,
+            "ProductsImage":"/sony.jpeg",
+            "InStock": true,
+            "quantity":18
+        },
+         {
+        "id":12,
+        "Name":"Canon EOS 200D DSLR Camera",
+        "Category":"Cameras",
+        "oldPrice":59999,
+        "Price":49999,
+        "ProductsImage":"/camera.jpeg",
+        "InStock": true,
+        "quantity":19
+    },
+    {
+        "id":13,
+        "Name":"Philips 1000W Dry Iron",
+        "Category":"Irons",
+        "oldPrice":599,
+        "Price":499,
+        "ProductsImage":"/Philips.webp",
+        "InStock": true,
+        "quantity":15
+    },
+    {
+        "id":14,
+        "Name":"LG 7 kg Fully Automatic Front Load Washing Machine",
+        "Category":"Washing Machines",
+        "oldPrice":34990,
+        "Price":32990,
+        "ProductsImage":"/lg.webp",
+        "InStock": true,
+        "quantity":26
+    },
+    {
+        "id":15,
+        "Name":"Apple iPad 10.2-inch Wi‑Fi 64GB",
+        "Category":"Tablets",
+        "oldPrice":67999,
+        "Price":59999,
+        "ProductsImage":"/ipad.webp",
+        "InStock": true,
+        "quantity":29
+    },
+    {
+        "id":16,
+        "Name":"Samsung 253L 3 Star Inverter Frost Free Double Door Refrigerator",
+        "Category":"Refrigerators",
+        "oldPrice":39900,
+        "Price":35900,
+        "ProductsImage":"/fridge.webp",
+        "InStock": true,
+        "quantity":34
+    },
+    {
+        "id":17,
+        "Name":"Realme Buds Air 3 Neo",
+        "Category":"Earbuds",
+        "oldPrice":5499,
+        "Price":4499,
+        "ProductsImage":"/Neo.jpg",
+        "InStock": true,
+        "quantity":27
+    },
+    {
+        "id":18,
+        "Name":"Havells Stealth Smart Metallic Black 1200 mm Ceiling Fan",
+        "Category":"Fans",
+        "Price":10000,
+        "ProductsImage":"/platin.webp",
+        "InStock": true,
+        "quantity":19
+    },
+    {
+        "id":19,
+        "Name":"Automatic Programmable Robot Vacuum Cleaner",
+        "Category":"Vacuum cleaner",
+        "Price":14000,
+        "ProductsImage":"/house.jpg",
+        "InStock": true,
+        "quantity":31
+    },
+    {
+        "id":20,
+        "Name":"Indo Supermatic Plus Best Mixer Grinder",
+        "Category":"Mixture",
+        "Price":3299,
+        "ProductsImage":"/mixture.webp",
+        "InStock": true,
+        "quantity":21
+    },
+    {
+        "id":21,
+        "Name":"Huawei Mate XT Ultimate Trifold Smart Phone",
+        "Category":"Phones",
+        "Price":479999,
+        "ProductsImage":"/Huawei.webp",
+        "InStock": true,
+        "quantity":24
+    },
+    {
+        "id":22,
+        "Name":"OmniBook Ultra Flip Laptop",
+        "Category":"Laptops",
+        "Price":200000,
+        "ProductsImage":"/best.jpg",
+        "InStock": true,
+        "quantity":15
+    },
+    {
+        "id":23,
+        "Name":"Samsung 253L 3 Star Inverter Frost Free Double Door Refrigerator",
+        "Category":"Refrigerators",
+        "Price":23990,
+        "ProductsImage":"/fridge.webp",
+        "InStock": true,
+        "quantity":15
+    },
+    {
+        "id":24,
+        "Name":"Bajaj Majesty Grill Toaster",
+        "Category":"Kitchen Appliances",
+        "Price":1899,
+        "ProductsImage":"/tost.jpg",
+        "InStock": true,
+        "quantity":18
+    },
+    {
+        "id":25,
+        "Name":"Mi Smart Band 6",
+        "Category":"Fitness Trackers",
+        "Price":3499,
+        "ProductsImage":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQ8_kohYB65OVMdOQZUlLPLJLVFiZWLav-wQmEQ0nuJcWWEk4H7t27E2ELTAOTqdEygpQzWA0vjm5dwYNVzdOPf1jf9NPA1TA9S1Kp09q3",
+        "InStock": true,
+        "quantity":19
+    },
+    {
+        "id":26,
+        "Name":"Realme Buds Air 3 Neo",
+        "Category":"Earbuds",
+        "Price":1699,
+        "ProductsImage":"Neo.jpg",
+        "InStock": true,
+        "quantity":20
+    },
+    {
+        "id":27,
+        "Name":"Noise ColorFit Ultra 2 Smartwatch",
+        "Category":"Smartwatchs",
+        "Price":2999,
+        "ProductsImage":"/gadi.webp",
+        "InStock": true,
+        "quantity":28
+    },
+    {
+        "id":28,
+        "Name":"boAt Airdopes 141",
+        "Category":"Earbuds",
+        "Price":1299,
+        "ProductsImage":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRNX20u0yd_8jEMPn_StIQhJJDJGXrNvZypp0iG6UhhD7YhMl0XTatwELO5ZMHBjXiq7g_2I0DZsV2Z9baEmmoYc0gYXFPCOQnSNPVfrzUPrHfjTn_ZE1MQ",
+        "InStock": true,
+        "quantity":19
+    },
+    {
+        "id":29,
+        "Name":"Prestige Electric Kettle 1.5L",
+        "Category":"Kitchen Appliances",
+        "Price":1099,
+        "ProductsImage":"/pep.jpeg",
+        "InStock": true,
+        "quantity":27
+    },
+    {
+        "id":30,
+        "Name":"Lenovo Tab M10 HD Tablet",
+        "Category":"Tablets",
+        "Price":12490,
+        "ProductsImage":"/tab.jpg",
+        "InStock": true,
+        "quantity":20
+    },
+    
+  {
+    "id": 31,
+    "Name": "Samsung Galaxy Tab A9",
+    "Category": "Tablets",
+    "Price": 13490,
+    "ProductsImage": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQuGT_hj5YoJgWxyOP5qfm8XPDVvpR0tNJrFJNfa-uOVBTcq15ejihaRuJDwX6p1iJOaaMZU263pv5fb9iijgdn0THQo4CbIMvalJ4n1MM3BHSsW11Lx0vh",
+    "InStock": true,
+    "quantity": 15
+  },
+  {
+    "id": 32,
+    "Name": "Apple iPad 9th Gen",
+    "Category": "Tablets",
+    "Price": 28990,
+    "ProductsImage": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRI1oRN6ZUmP_bF_Xj9ESB5OrenrrF0KZ1ont-FzBdzBrgL9k_mO3GTFdyosVv2dUrOdqcgLCKy6hjq8KgLt8IKNhhOZwI9dXeZsaaown0",
+    "InStock": true,
+    "quantity": 25
+  },
+  {
+    "id": 33,
+    "Name": "Dell Inspiron 15",
+    "Category": "Laptops",
+    "Price": 45990,
+    "ProductsImage": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRvNw2Ju1QlvZvuZJKSozLssOHqqF5ZFin0jxhs-lpuTiRVBPPn8oVCu4VjtWuqnv61Li9p9MDgYgNqDV1-kS--62LYfPgHTk282-9ykoa4",
+    "InStock": true,
+    "quantity": 10
+  },
+  {
+    "id": 34,
+    "Name": "HP Pavilion x360",
+    "Category": "Laptops",
+    "Price": 52990,
+    "ProductsImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYmzKut7eQobR3t5vyS_eS3EWuy1zUTDWYQ&s",
+    "InStock": true,
+    "quantity": 8
+  },
+  {
+    "id": 35,
+    "Name": "Realme C55",
+    "Category": "Smartphones",
+    "Price": 9999,
+    "ProductsImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMtwIGMptVVzcShGAe7FzOEF6-iqt8yC1Eg&s",
+    "InStock": true,
+    "quantity": 30
+  },
+  {
+    "id": 36,
+    "Name": "Samsung Galaxy M14",
+    "Category": "Smartphones",
+    "Price": 11999,
+    "ProductsImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOO0vcEx4iKjM827GZ2PhZHTGKN5tEVFMlMA&s",
+    "InStock": true,
+    "quantity": 22
+  },
+  {
+    "id": 37,
+    "Name": "Sony WH-CH520",
+    "Category": "Headphones",
+    "Price": 4499,
+    "ProductsImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBppF-nR-FdH_5cDUUBs2-G3qQJmdnadAcDQ&s",
+    "InStock": true,
+    "quantity": 50
+  },
+  {
+    "id": 38,
+    "Name": "Boat Rockerz 255",
+    "Category": "Headphones",
+    "Price": 1299,
+    "ProductsImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf4MA1v2U0tTHiLruaFKHD1Fnkg1eUlMtdfQ&s",
+    "InStock": true,
+    "quantity": 40
+  },
+  {
+    "id": 39,
+    "Name": "Mi Power Bank 20000mAh",
+    "Category": "Accessories",
+    "Price": 1999,
+    "ProductsImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Z6yzuzX3EG4eXkVELkT40Y4srOC9Tlr2Fw&s",
+    "InStock": true,
+    "quantity": 60
+  },
+  {
+    "id": 40,
+    "Name": "Samsung Galaxy Watch 4",
+    "Category": "Wearables",
+    "Price": 12999,
+    "ProductsImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTUh16LU954_S6Bl8y3fF-dBvl21lczpeBmw&s",
+    "InStock": true,
+    "quantity": 14
+  }
+           
+    ] 
+}
